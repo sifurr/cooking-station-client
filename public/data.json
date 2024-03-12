@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "total_expenses": 350,
+    "current_balance": 150,
+    "total_meals_ordered": 20,
+    "current_package": "Gold",
+    "active_status": [
+      "Your 2 Times Meal Available (Guest Meal Allow)",
+      "Your 2 Times Meal Available (Guest Meal Allow)",
+      "Your Meal Off"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "total_expenses": 500,
+    "current_balance": 200,
+    "total_meals_ordered": 30,
+    "current_package": "Platinum",
+    "active_status": [
+      "Your 2 Times Meal Available (Guest Meal Allow)",
+      "Your 2 Times Meal Available (Guest Meal Allow)",
+      "Your Meal Off"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Alice Johnson",
+    "email": "alice.johnson@example.com",
+    "total_expenses": 200,
+    "current_balance": 100,
+    "total_meals_ordered": 15,
+    "current_package": "Silver",
+    "active_status": [
+      "Your 2 Times Meal Available (Guest Meal Allow)",
+      "Your 2 Times Meal Available (Guest Meal Allow)",
+      "Your Meal Off"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Bob Brown",
+    "email": "bob.brown@example.com",
+    "total_expenses": 450,
+    "current_balance": 50,
+    "total_meals_ordered": 25,
+    "current_package": "Gold",
+    "active_status": [
+      "Your 2 Times Meal Available (Guest Meal Allow)",
+      "Your 2 Times Meal Available (Guest Meal Allow)",
+      "Your Meal Off"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Emily Wilson",
+    "email": "emily.wilson@example.com",
+    "total_expenses": 600,
+    "current_balance": 300,
+    "total_meals_ordered": 35,
+    "current_package": "Platinum",
+    "active_status": [
+      "Your 2 Times Meal Available (Guest Meal Allow)",
+      "Your 2 Times Meal Available (Guest Meal Allow)",
+      "Your Meal Off"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "Michael Lee",
+    "email": "michael.lee@example.com",
+    "total_expenses": 300,
+    "current_balance": 100,
+    "total_meals_ordered": 20,
+    "current_package": "Silver",
+    "active_status": [
+      "Your 2 Times Meal Available (Guest Meal Allow)",
+      "Your 2 Times Meal Available (Guest Meal Allow)",
+      "Your Meal Off"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "Sophia Martinez",
+    "email": "sophia.martinez@example.com",
+    "total_expenses": 700,
+    "current_balance": 200,
+    "total_meals_ordered": 40,
+    "current_package": "Gold",
+    "active_status": [
+      "Your 2 Times Meal Available (Guest Meal Allow)",
+      "Your 2 Times Meal Available (Guest Meal Allow)",
+      "Your Meal Off"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "William Taylor",
+    "email": "william.taylor@example.com",
+    "total_expenses": 400,
+    "current_balance": 50,
+    "total_meals_ordered": 25,
+    "current_package": "Silver",
+    "active_status": [
+      "Your 2 Times Meal Available (Guest Meal Allow)",
+      "Your 2 Times Meal Available (Guest Meal Allow)",
+      "Your Meal Off"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "Olivia Anderson",
+    "email": "olivia.anderson@example.com",
+    "total_expenses": 550,
+    "current_balance": 150,
+    "total_meals_ordered": 30,
+    "current_package": "Platinum",
+    "active_status": [
+      "Your 2 Times Meal Available (Guest Meal Allow)",
+      "Your 2 Times Meal Available (Guest Meal Allow)",
+      "Your Meal Off"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "James Wilson",
+    "email": "james.wilson@example.com",
+    "total_expenses": 250,
+    "current_balance": 100,
+    "total_meals_ordered": 15,
+    "current_package": "Gold",
+    "active_status": [
+      "Your 2 Times Meal Available (Guest Meal Allow)",
+      "Your 2 Times Meal Available (Guest Meal Allow)",
+      "Your Meal Off"
+    ]
+  }
+]
