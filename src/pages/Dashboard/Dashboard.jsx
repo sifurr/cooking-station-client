@@ -7,6 +7,7 @@ import { GiNetworkBars } from "react-icons/gi";
 import { PiSignOutBold } from "react-icons/pi";
 import Nav from 'react-bootstrap/Nav';
 import './Dashboard.css'
+import CustomerDetails from '../../components/CustomerDetails/CustomerDetails';
 
 
 
@@ -86,7 +87,7 @@ const Dashboard = () => {
                         <div className='ms-2 ms-xl-2 ps-xl-5'>
                             {/* main content */}
                             <div className='ps-xxl-2'>
-                                
+                                <CustomerDetails/>
                             </div>
                         </div>
                     </Col>
